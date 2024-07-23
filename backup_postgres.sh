@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source /root/staybox/scripts/config.cfg
+source /root/empresa/scripts/config.cfg
 
 # Variáveis
 dia=$(date +%d%m%Y)
